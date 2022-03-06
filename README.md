@@ -34,9 +34,17 @@ Description of the differences in ride sharing data among the city types
   - Similarly, the average fare per driver correlated with the average fare: Rural ($55.49), Suburban ($39.50), 
   and Urban ($16.57).
   
-            ![image](https://user-images.githubusercontent.com/98435855/156943477-0cbb9217-7b9b-40b1-b1da-a6c8e49b3944.png)
+           
 
-![image](https://user-images.githubusercontent.com/98435855/156943458-b0bce333-b9b4-44a1-a62a-786720da7ac2.png)
+   ![image](https://user-images.githubusercontent.com/98435855/156943458-b0bce333-b9b4-44a1-a62a-786720da7ac2.png)
 
+## Summary
+
+In summary, the following business recommendations will address some of the disparities among city types, as seen in
+the "Avg Fare per Ride," and "Avg Fare per Driver" in the chart above.
+
+	1. Increase the number of drivers in Rural areas.
+	2. Increase the fare cost in Suburban areas.
+	3. Decrease the number of drivers in Urban areas.
 
 
